@@ -1,0 +1,477 @@
+header{
+    color:white;
+    background-color:darkred;
+    font-family:serif;   
+    font-style: bold;
+    font-size: 19px;
+    padding: 8px;   
+}
+
+body{
+    font-family: serif;
+    font-size: 16px;
+}
+
+.img-profile{
+    
+    width: 200px;
+    padding-top: 15px;    
+}
+
+.img-TMAS1{
+    width:500px;
+    padding-top: 15px;    
+}
+
+.img-TMAS1Cover{
+    width:300px;
+    padding-top: 15px;  
+}
+
+.img-TMAS2{
+    width:500px;
+    padding-top: 15px;    
+}
+
+.img-TMAS2Cover{
+    width:300px;
+    padding-top: 15px;   
+}
+
+.img-Fallfair{
+    width:300px;
+    padding-top: 15px;    
+}
+
+.img-crystal{
+    width:320px;
+    padding-top: 15px;   
+}
+
+.img-mermaid{
+    width:320px;
+    padding-top: 15px;    
+}
+
+.img-covidgnomes{
+    width:280px;
+    padding-top: 15px;    
+}
+
+
+.img-forestfairytales{
+    width:330px;
+    padding-top: 15px;   
+}
+
+.img-eggs{
+    width:400px;
+    padding-top: 15px;   
+}
+
+.img-BHM0{
+    
+    width: 300px;
+    padding-top: 15px;   
+}
+    
+.img-BHM4{
+    
+    width: 300px;
+    padding-top: 15px;
+}
+
+.img-BHM2{
+    
+    width: 300px;
+    padding-top: 15px;
+}
+
+.img-BHM7{
+    
+    width: 300px;
+    padding-top: 15px;
+}
+
+.img-BHM1{
+    
+    width: 300px;
+    padding-top: 15px;
+}
+
+.img-BHM3{
+    
+    width: 300px;
+    padding-top: 15px;
+}
+
+.img-BHM5{
+    
+    width: 250px;
+    padding-top: 15px;
+}
+
+.img-BHM6{
+    
+    width: 250px;
+    padding-top: 15px;
+}
+
+
+.img-painting1{
+    
+    width: 500px;
+    padding-top: 15px;
+}
+
+.img-painting2{
+    
+    width: 400px;
+    padding-top: 15px;
+}
+
+.img-painting3{
+    
+    width: 400px;
+    padding-top: 15px;
+}
+
+
+.img-painting4{
+    
+    width: 600px;
+    padding-top: 15px;
+}
+
+.img-bb1{ 
+    width: 500px;
+    padding-top: 15px;
+}
+
+.img-bb2{
+    width: 300px;
+    padding-top: 15px;
+}
+
+.img-bb3{
+    width: 800px;
+    padding-top: 15px;
+}
+
+.img-bb4{
+    
+    width: 300px;
+    padding-top: 15px;
+}
+
+.img-bb5{
+    
+    width: 500px;
+    padding-top: 15px;
+}
+
+.img-bb6{
+    
+    width: 450px;
+    padding-top: 15px;
+}
+
+.img-bb7{
+    
+    width: 300px;
+    padding-top: 15px;
+}
+
+.img-bb8{
+    
+    width: 300px;
+    padding-top: 15px;
+}
+
+.img-bb9{
+    
+    width: 303px;
+    padding-top: 15px;
+}
+
+.img-cat2{
+    width: 600px;
+    padding-top: 15px;
+}
+
+.img-cat3{
+    width: 615px;
+    padding-top: 15px;
+}
+
+.img-Hollows1{
+    width: 300px;
+    padding-top: 15px;
+}
+
+.img-Hollows2{
+    width: 367px;
+    padding-top: 15px;
+}
+
+.img-Hollows3{
+    width: 283px;
+    padding-top: 15px;
+}
+
+.img-Hollows4{
+    width: 300px;
+    padding-top: 15px;
+}
+
+.img-hoi1{
+    width: 600px;
+    padding-top: 15px;
+}
+
+.img-hoi2{
+    width: 500px;
+    padding-top: 15px;
+}
+
+.img-hoi3{
+    width: 240px;
+    padding-top: 15px;
+}
+
+.img-hoi4{
+    width: 350px;
+    padding-top: 15px;
+}
+
+.img-puppets{
+    width: 570px;
+    padding-top: 15px;
+}
+
+.img-sheep1{
+    width: 500px;
+    padding-top: 15px;
+}
+
+.img-sheep2{
+    width: 240px;
+    padding-top: 15px;
+}
+
+.img-sheep3{
+    width: 262px;
+    padding-top: 15px;
+}
+
+.img-sheep4{
+    width: 260px;
+    padding-top: 15px;
+}
+
+.img-sheep5{
+    width: 225px;
+    padding-top: 15px;
+}
+
+.img-sheep6{
+    width: 190px;
+    padding-top: 15px;
+}
+
+.img-sheep7{
+    width: 200px;
+    padding-top: 15px;
+}
+
+.img-ogen1{
+    width: 500px;
+    padding-top: 15px;
+}
+
+.img-ogen2{
+    width: 500px;
+    padding-top: 15px;
+}
+
+.img-ogen3{
+    width: 350px;
+    padding-top: 15px;
+}
+
+.img-lamp1{
+    width: 400px;
+    padding-top: 15px;
+}
+
+.img-lamp2{
+    width: 300px;
+    padding-top: 15px;
+}
+
+.img-lamp3{
+    width: 315px;
+    padding-top: 15px;
+}
+
+.img-lamp4{
+    width: 392px;
+    padding-top: 15px;
+}
+
+.img-lamp5{
+    width: 337px;
+    padding-top: 15px;
+}
+
+.img-lamp6{
+    width: 295px;
+    padding-top: 15px;
+}
+
+.img-lamp7{
+    width: 250px;
+    padding-top: 15px;
+}
+
+.name{
+    font-weight: bold;
+    
+}
+.bio{
+    font-style:oblique;
+    padding-right: 30px;
+}
+
+
+ul{
+    
+    font-family: serif;
+    text-align:left;    
+    padding:7px; 
+    padding-top: 30px;
+}
+
+.link a{
+    overflow: hidden;
+    float: left;
+    text-align:left;
+    padding: inherit
+    text-decoration: none;
+    color: black;    
+}
+
+.link a:hover{
+    color: darkred;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+nav{
+    color:black
+    font-family:serif;
+    background-color: whitesmoke;
+    overflow: hidden;   
+}
+
+.mydropdown{
+    color:black
+    font-family:serif;
+    background-color: whitesmoke;
+    overflow: hidden;  
+    
+}
+
+.myDropdown a{
+    background-color:whitesmoke;
+    color: black;
+    overflow:hidden;
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none    
+}
+
+/*w3 schools stuff*/
+
+.navbar {
+  overflow: hidden;
+  background-color: #f2f2f2;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: black;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #f2f2f2;
+  font-style: italic;
+  color: darkred;
+  text-decoration: underline;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  color: darkred;
+  font-style: italic;
+  text-decoration: underline;
+
+}
+
+/*end w3 schools stuff*/
+    
+.topnav a:hover{
+    color: darkred;
+    font-style: italic;
+    text-decoration: underline
+}
+
+
+body{
+  color:black;  
+  font-family:serif;
+}
+
